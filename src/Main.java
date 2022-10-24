@@ -1,4 +1,4 @@
-// Worldle Game - Recreated
+// Wordle Game - Recreated
 // Date: 10/24/22
 
 
